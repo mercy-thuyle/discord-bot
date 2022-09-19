@@ -1,0 +1,85 @@
+{
+  "version": 7,
+  "backups": [
+    {
+      "name": "rules",
+      "messages": [
+        {
+          "data": {
+            "content": null,
+            "embeds": [
+              {
+                "title": "QUY ĐỊNH CÔNG TY",
+                "description": "**Welcome to Unicloud Infomation !!!** 🪐🪐🪐\n **Tập Đoàn Công Nghệ Quốc Tế \n      Tiên Phong Chuyển Đổi Số **",
+                "color": 15935793,
+                "thumbnail": {
+                  "url": "https://media2.giphy.com/media/PijzuUzUhm7hcWinGn/giphy.gif?cid=ecf05e47y423bc7gurkys69gyyaz2hsav2sx5p9os7dotnhz&rid=giphy.gif&ct=g"
+                }
+              },
+              {
+                "title": ":one: ** __THỜI GIAN LÀM VIỆC__**",
+                "description": "**Tại Unicloud chi nhánh Hồ Chí Minh:**\n*(Trừ Phòng Dịch vụ ATM/STM)*",
+                "color": 15935793,
+                "image": {
+                  "url": "https://i.imgur.com/SQqlBu8.png"
+                }
+              },
+              {
+                "description": "**Tại Nanochip và Phòng Dịch vụ ATM/STM - Unicloud\nchi nhánh Hồ Chí Minh:**",
+                "color": 15935793,
+                "image": {
+                  "url": "https://i.imgur.com/lc5xfFw.png"
+                }
+              },
+              {
+                "title": ":two: ** __QUY ĐỊNH CHẤM CÔNG__**",
+                "description": "**Nguyên tắc chấm công**\n:small_blue_diamond: Việc chấm công hằng ngày là yêu cầu bắt buộc phải thực hiện đối với tất cả Cán bộ nhân viên (CBNV) khi đi làm, ít nhất 02 lần/ngày, bao gồm chấm công khi đến và chấm công khi ra về, bằng hình thức tự động (App UniOffice, Face ID, thẻ ra vào tòa nhà...) hoặc bằng bản cứng (tại nơi không có máy chấm công hoặc một số trường hợp đặc biệt).\n\n:small_blue_diamond: Đi muộn: Là trường hợp CBNV chấm công muộn hơn giờ vào làm việc từ 30 phút trở lên.\n\n:small_blue_diamond: Về sớm: Là trường hợp CBNV về khi chưa làm đủ thời gian tiêu chuẩn/ngày hoặc về trước thời gian làm việc của ca.\n\n:small_blue_diamond: Trường hợp CBNV vừa đi muộn vừa về sớm trong cùng một ngày được tính là 02 lần vi phạm đi muộn/về sớm.\n\n:small_blue_diamond: Đối với CBNV nữ trong thời gian nuôi con nhỏ dưới 12 tháng tuổi, được đăng ký đi muộn hoặc về sớm 60 phút so với thời gian quy định ca làm việc.",
+                "color": 15935793
+              },
+              {
+                "description": "** Giải trình chấm công**\n:small_blue_diamond: Giải trình chấm công chỉ được ghi nhận khi cấp có thẩm quyền xác nhận phê duyệt và phải được hoàn tất trước ngày chốt công của tháng. CBNV có thể giải trình qua App UniOffice hoặc bản cứng.\n\n:small_blue_diamond: Các trường hợp giải trình chấm công:\n:arrow_right: CBNV làm việc ngoài văn phòng (làm việc tại dự án, đi gặp đối tác, khách hàng,..); đi từ nhà tới nơi làm việc ngoài văn phòng mà không kịp chấm công giờ vào hoặc giờ ra theo quy định của Đơn vị;\n:arrow_right: CBNV trong thời gian thử việc chưa được cấp thẻ chấm công, chưa có tài khoản App UniOffice;\nCBNV được cử đi công tác, biệt phái tại nơi không có máy chấm công;\n:arrow_right: Ngày bộ phận IT hoặc bộ phận quản lý chấm công gửi mail thông báo tới toàn bộ CBNV về việc hệ thống chấm công bị lỗi, không chấm được công;\n:arrow_right: Giải trình “Quên chấm công”, “Đi muộn/về sớm” được ghi nhận tối đa 03 lần/tháng, từ lần thứ 04 trở đi sẽ xử lý theo quy định của Unicloud;\n:arrow_right: Ngoài các trường hợp trên, chỉ ghi nhận các giải trình cho công việc, không áp dụng các giải trình với lý do cá nhân.",
+                "color": 15935793
+              },
+              {
+                "title": ":three: ** __CÁC CHẾ ĐỘ NGHỈ__**",
+                "description": ":small_blue_diamond: Nghỉ hằng năm (nghỉ phép năm);\n:small_blue_diamond: Nghỉ lễ, tết;\n:small_blue_diamond: Nghỉ việc riêng có hưởng lương\n:small_blue_diamond: Nghỉ việc riêng không hưởng lương;\n:small_blue_diamond: Nghỉ theo chế độ BHXH;\n:small_blue_diamond: Tạm hoãn HĐLĐ.\n*(Chi tiết thực hiện theo Hướng dẫn chế độ nghỉ)*",
+                "color": 15935793
+              },
+              {
+                "title": ":five: ** __BẢO MẬT THÔNG TIN__**",
+                "description": ":small_blue_diamond: Bảo mật tuyệt đối mọi thông tin của Unicloud và của đối tác, khách hàng.\n:small_blue_diamond: Nghiêm cấm mọi hành vi sao chép hoặc gửi tài liệu nội bộ ra bên ngoài dưới bất kỳ hình thức nào khi chưa được phép của người có thẩm quyền.\n:small_blue_diamond: Tất cả CBNV trước khi vào làm việc đều phải ký ***“Hợp đồng bảo mật thông tin”***.",
+                "color": 15935793
+              },
+              {
+                "title": ":six: ** __AN TOÀN LAO ĐỘNG__**",
+                "description": ":small_blue_diamond: Chấp hành quy định bảo đảm an toàn khi sử dụng các loại máy móc, công cụ; quy trình vận hành, bảo dưỡng khi sử dụng các loại máy móc, công cụ lao động, công cụ hỗ trợ và điều khiển các loại phương tiện giao thông.\n:small_blue_diamond: Bảo quản và sử dụng đầy đủ các phương tiện bảo hộ lao động cá nhân được trang bị theo quy định.\n:small_blue_diamond: Chấp hành các quy định phòng chống lụt bão, phòng cháy chữa cháy, sử dụng thành thạo các phương tiện chữa cháy hiện có tại cơ quan.\n:small_blue_diamond: Nắm vững phương pháp sơ cứu, cứu chữa và thủ tục giải quyết khi xảy ra tai nạn lao động.",
+                "color": 15935793
+              },
+              {
+                "title": ":seven: ** __TRẬT TỰ, VỆ SINH NƠI LÀM VIỆC__**",
+                "description": ":small_blue_diamond: Không nói lớn tiếng, gây ồn ào, mất trật tự làm ảnh hưởng đến người xung quanh.\n:small_blue_diamond: Không tổ chức ăn uống, không hút thuốc lá, không xả rác, không khạc nhổ bừa bãi tại khu vực làm việc.\n:small_blue_diamond: Luôn trả lại vị trí và sắp xếp các vật dụng, tài liệu gọn gàng sau khi sử dụng.\n:small_blue_diamond: Thực hiện vệ sinh bàn ghế, máy móc thiết bị, vật dụng, ngăn tủ, hồ sơ nơi làm việc cá nhân và giữ gìn vệ sinh chung.",
+                "color": 15935793
+              },
+              {
+                "title": ":eight: ** __VĂN HÓA ỨNG XỬ VỚI ĐỒNG NGHIỆP & KHÁCH HÀNG__**",
+                "description": ":small_blue_diamond: **Đối với khách hàng và đối tác của Unicloud:**\n:arrow_right: Phục vụ chu đáo, tận tụy và có tinh thần cầu thị.\n:arrow_right: Có thái độ hòa nhã, niềm nở, ân cần, văn minh và lịch sự.\n:arrow_right: Không ngừng cải tiến và nâng cao chất lượng dịch vụ.\n:arrow_right: Luôn có trách nhiệm xây dựng, giữ gìn, bảo vệ và phát triển uy tín, hình ảnh, thương hiệu của Unicloud.\n\n:small_blue_diamond: **Đối với đồng nghiệp và CBNV khác trong nội bộ Unicloud:**\n:arrow_right: Có thái độ lịch sự, tôn trọng, lắng nghe và tiếp thu ý kiến của đồng nghiệp.\n:arrow_right: Có hành vi, thái độ đúng mực, công bằng, vô tư, khách quan và trung thực trong việc đưa ra nhận xét, đánh giá.\n:arrow_right: Không được gây khó khăn cho đồng nghiệp và phải có tinh thần phối hợp, hỗ trợ khi giao dịch công tác với các Đơn vị, cá nhân khác.\n:arrow_right: Tích cực xây dựng, duy trì và phát huy tinh thần đoàn kết nội bộ, hợp tác giúp đỡ nhau trong công việc và phát triển văn hóa Unicloud.",
+                "color": 15935793,
+                "footer": {
+                  "text": "© UnicloudGroup 2022. All Rights Reserved.",
+                  "icon_url": "https://i.imgur.com/qVqkXYc.png"
+                }
+              }
+            ],
+            "attachments": []
+          },
+          "reference": ""
+        }
+      ],
+      "targets": [
+        {
+          "url": "https://discord.com/api/webhooks/1021300202184912936/qq14kpmdBDffZcp0hlcu8zuqF3-20X15MpSKbnoxGwTVptiXvMmN57gdS3sm4BipFnca"
+        }
+      ]
+    }
+  ]
+}

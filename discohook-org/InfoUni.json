@@ -1,0 +1,120 @@
+{
+  "version": 7,
+  "backups": [
+    {
+      "name": "InfoUni",
+      "messages": [
+        {
+          "data": {
+            "content": null,
+            "embeds": [
+              {
+                "title": "**Welcome to Unicloud Infomation !!!** 🪐🪐🪐\n **Tập Đoàn Công Nghệ Quốc Tế \n      Tiên Phong Chuyển Đổi Số **",
+                "description": "**Unicloud Group nghiên cứu, phát triển, và cung cấp các sản phẩm, giải pháp công nghệ quan trọng cho hầu hết các lĩnh vực “xương sống” của nền kinh tế. Nhằm mục tiêu tăng cường năng lực và thúc đẩy sự phát triển của các ngành nghề, nâng cao chất lượng cuộc sống.**\n** **\n**__TẦM NHÌN__** \n**Không ngừng đổi mới, sáng tạo để giải quyết các vấn đề của người dùng và các ngành đoàn công nghệ thế giới với 5,000 nhân sự tại ít nhất 10 quốc gia trên toàn cầu.**\n** **\n**__SỨ MỆNH__**\n**Unicloud có sứ mệnh là tiên phong trong chuyển đổi số của Việt Nam và thế giới, giúp nâng tầm giá trị chất xám của người Việt phục vụ cho cộng đồng văn minh giúp nâng cao chất lượng sống không chỉ của người Việt mà trên toàn thế giới.**\n🌠🌠🌠",
+                "color": 3842288,
+                "image": {
+                  "url": "https://i.imgur.com/TFFlfUR.png"
+                },
+                "thumbnail": {
+                  "url": "https://media.giphy.com/media/QVreOR83Fgr67g2WFJ/giphy.gif"
+                }
+              },
+              {
+                "title": "**GIÁ TRỊ CỐT LÕI**",
+                "description": "**__Thực tế & Thách thức__**\n**Unicloud Group luôn trăn trở với các bài toán lớn cần phải giải quyết cách tối ưu nhất. Tự đặt ra cho mình những mục tiêu thách thức phải vượt qua trên con đường chuyển đổi số.**\n** **\n**__Phát triển nhân lực__**\n**Unicloud Group xây dựng môi trường khuyến khích nhân sự tìm tòi, sáng tạo, chủ động nghiên cứu phát triển bản thân, không ngừng học hỏi để thích nghi với mọi thay đổi công nghệ mới.**\n** **\n**__Đề cao con người__**\n**Unicloud Group luôn tôn trọng và hỗ trợ tốt nhất để mỗi cá nhân có thể là ngôi sao, niềm tự hào của gia đình và xã hội. Mỗi thành viên luôn có tinh thần làm việc và cống hiến vì sự phát triển chung của công ty.**",
+                "color": 3842288,
+                "image": {
+                  "url": "https://i.imgur.com/wxc7Z5Q.png"
+                }
+              },
+              {
+                "title": "**XÂY DỰNG VĂN HÓA LÀM VIỆC TẠI UNICLOUD**",
+                "description": "**Thành công của chuyển đổi số là kết quả của việc thay đổi văn hoá, cách làm việc, tạo ra nhận thức tại tất cả các cấp lãnh đạo và nhân viên trong Unicloud.**",
+                "color": 3842288,
+                "image": {
+                  "url": "https://i.imgur.com/WSasxj8.png"
+                }
+              },
+              {
+                "title": "**CHIẾN LƯỢC PHÁT TRIỂN SẢN PHẨM**",
+                "description": "**Với mục tiêu chung là mang lại nhiều giá trị hơn đồng thời giảm thiểu rủi ro và chi phí cho khách hàng, Unicloud Group và các đối tác chiến lược của chúng tôi hợp lực để mang lại lợi thế hàng đầu nhờ hiểu biết kinh doanh và đổi mới công nghệ.**",
+                "url": "https://unicloud.com.vn/vi/about-us",
+                "color": 3842288,
+                "fields": [
+                  {
+                    "name": "**1. __Vươn tầm thế giới__**",
+                    "value": "**Các sản phẩm tại Unicloud được khai sinh không những để tháo gỡ các bài toán khó trong ngành dịch vụ tại địa phương, mà còn được thiết kế với nền tảng công nghệ mang tầm Quốc tế. Thiết kế mở cho phép dễ dàng tích hợp đa nền tảng, thiết bị phần cứng và hệ thống của các đối tác toàn cầu.**"
+                  },
+                  {
+                    "name": "**2. __Kết nối hệ sinh thái__**",
+                    "value": "**Sở hữu các hệ thống lõi và công nghệ lõi để khai thác Big Data thông qua việc chia sẻ người dùng với các nền tảng khác. Tập trung nguồn lực vào các hệ sinh thái tạo ra hàng triệu người dùng, hàng tỷ giao dịch xoay quanh Bất động sản, Banking, Tài Chính, Bảo hiểm và các dịch vụ thiết yếu hàng ngày.**"
+                  },
+                  {
+                    "name": "**3. __Khách hàng là trọng tâm__**",
+                    "value": "**Lấy khách hàng làm trung tâm chuyển đổi số, hướng đến cải thiện trải nghiệm khách hàng tốt nhất, khai thác tối đa tài nguyên trên diện rộng và thời gian thực. Nhờ đó giúp giữ chân khách hàng và mang lại tỷ lệ chuyển đổi cao cho doanh nghiệp.**"
+                  },
+                  {
+                    "name": "**4. __Dẫn đầu thông tin__**",
+                    "value": "**Nền tảng dữ liệu lớn đóng vai trò quyết định trong việc phân tích thông tin và đưa ra kết luận thông minh, giúp doanh nghiệp tối ưu hóa hiệu suất và cải thiện sản phẩm của mình.**"
+                  }
+                ],
+                "image": {
+                  "url": "https://unicloud.com.vn/assets/images-1.e7d3c802.png"
+                }
+              },
+              {
+                "url": "https://unicloud.com.vn/vi/about-us",
+                "image": {
+                  "url": "https://unicloud.com.vn/assets/images-2.91e7f244.png"
+                }
+              },
+              {
+                "url": "https://unicloud.com.vn/vi/about-us",
+                "image": {
+                  "url": "https://unicloud.com.vn/assets/images-3.91a3e705.png"
+                }
+              },
+              {
+                "url": "https://unicloud.com.vn/vi/about-us",
+                "image": {
+                  "url": "https://unicloud.com.vn/assets/images-4.8e99cbed.png"
+                }
+              },
+              {
+                "title": "**SƠ ĐỒ TỔ CHỨC**",
+                "description": "**Với mong muốn trở thành một Apple của Việt Nam, luôn đổi mới để kiến tạo nên những dịchvụ, giải pháp công nghệ đa năng và toàn diện, làm phong phú thêm cuộc sống hàng ngày,Unicloud đã và đang áp dụng phương thức tổ chức nhân sự theo cấu trúc chức năng nhằm đảmbảo yếu tố sáng tạo, thấu hiểu và đáp ứng nhu cầu của khách hàng tốt hơn. Đồng thời có thểgiám sát và đánh giá hoạt động một cách hiệu quả nhất.**",
+                "color": 3842288,
+                "image": {
+                  "url": "https://unicloud.com.vn/assets/image-diagram-company.2fe300e5.png"
+                }
+              },
+              {
+                "title": "**Kết nối với chúng tôi**",
+                "description": ":map: **__Trụ sở chính__\nTầng 10, Toà nhà Sunshine Center, Số 16 Phạm Hùng, Hà Nội**\n** **\n:map: **__Chi nhánh TP.Hồ Chí Minh__\nBlock 5, Lô I-3B-1, Đường N6, Khu Công Nghệ Cao, Phường Tân Phú, Thành phố Thủ Đức, Thành phố Hồ Chí Minh**\n** **\n:envelope:  **__Email__        \ninfo@unicloud.com.vn**\n\n:telephone: **__ Hotline__\n19006054**",
+                "color": 3842288,
+                "footer": {
+                  "text": "© UnicloudGroup 2022. All Rights Reserved.",
+                  "icon_url": "https://i.imgur.com/GBxydxc.png"
+                },
+                "timestamp": "2022-09-19T06:39:00.000Z",
+                "image": {
+                  "url": "https://unicloud.com.vn/assets/logo-white.9eb37c57.svg"
+                },
+                "thumbnail": {
+                  "url": "https://unicloud.com.vn/assets/icon-fly-blue.7c71afdf.svg"
+                }
+              }
+            ],
+            "attachments": []
+          },
+          "reference": ""
+        }
+      ],
+      "targets": [
+        {
+          "url": "https://discord.com/api/webhooks/1021264660923678801/GNT0bbthUnUZSEVYtbZaw_T4h2XjAugQtX54k3-9znI7wtkgEf006IQCiaYs6tEKGIcQ"
+        }
+      ]
+    }
+  ]
+}

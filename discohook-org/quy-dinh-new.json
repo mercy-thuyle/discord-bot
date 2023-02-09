@@ -1,0 +1,48 @@
+{
+  "version": 7,
+  "backups": [
+    {
+      "name": "quy-dinh-new",
+      "messages": [
+        {
+          "data": {
+            "content": null,
+            "embeds": [
+              {
+                "title": ":closed_book: ** __QUY ĐỊNH VỀ ĐẶT NICKNAME__**",
+                "description": ":small_blue_diamond: [**Tên Họ & Tên Lót**]-[**Team**]\n:arrow_right: HưngHH-DevOps",
+                "color": 15935793
+              },
+              {
+                "title": ":green_book: ** __QUY ĐỊNH VỀ AVATAR__**",
+                "description": ":arrow_right: Avatar là hình của bản thân",
+                "color": 15935793
+              },
+              {
+                "title": ":orange_book: ** __QUY ĐỊNH VỀ ĐẶT TÊN KÊNH CHAT__**",
+                "description": ":small_blue_diamond: [**Team**]-[**Mục đích**]\n:arrow_right: devops-họp-team",
+                "color": 15935793
+              },
+              {
+                "title": ":blue_book: ** __QUY ĐỊNH VỀ SỬ DỤNG THREADS__**",
+                "description": ":small_blue_diamond: **Đối với thread public**\n:arrow_right: Chỗ phần tin nhắn nhấn icon dấu cộng bên trái và chọn tạo Thread (chủ đề)\n:arrow_right: Đặt tên và gửi tin nhắn đầu tiên để kích hoạt\n\n:small_blue_diamond: **Đối với threads private**\n:arrow_right: Chỗ phần tin nhắn nhấn icon dấu cộng bên trái và chọn tạo Thread (chủ đề)\n:arrow_right: Tích vào ô __Riêng tư__\n:arrow_right: Đặt tên và gửi tin nhắn đầu tiên để kích hoạt",
+                "color": 15935793,
+                "footer": {
+                  "text": "© UnicloudGroup 2022. All Rights Reserved.",
+                  "icon_url": "https://i.imgur.com/qVqkXYc.png"
+                }
+              }
+            ],
+            "attachments": []
+          },
+          "reference": ""
+        }
+      ],
+      "targets": [
+        {
+          "url": "https://discord.com/api/webhooks/1073184628929732618/UYLc_SzEFJ-EmhBAiWwIzsNXWVyiZtQQQdfrHB-T9BzaP0C9nq4JTmlBYABpYdMYesKB"
+        }
+      ]
+    }
+  ]
+}
